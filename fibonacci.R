@@ -1,4 +1,4 @@
-## fibonacci sequence
+ ## fibonacci sequence
 
 len <- 10
 fibvals <- numeric(len)
